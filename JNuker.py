@@ -36,14 +36,14 @@ async def on_ready():
       █   ██  ▀▀▀   ▀             ▀    
          Made By Jose#0001""")
     print(Fore.YELLOW + 'We Have Awaked {0.user}'.format(bot))
-    print(Fore.LIGHTBLUE_EX + 'Discord Nuke Commands Below')
     print(Fore.CYAN + "Fake Command: The Prefix Is ;Help For The Fake Menu")
+    print(Fore.LIGHTBLUE_EX + 'Discord Nuke Commands Below')
     print(Fore.MAGENTA + """
 1. ;Delete
 2. ;Spam name
 3. ;VC name
 4. ;Role name
-Note: Make Sure To Type This In A Channel In The Discord Server Your Trying To Nuke A Discord Server
+Note: Make Sure To Type This In A  Text Channel In The Discord Server Your Trying To Nuke
     """)
 
 
