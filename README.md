@@ -8,9 +8,9 @@
 - This Is A Discord Server Nuker With A Fake Help Menu So It Looks Like You Are Getting A Legit Bot
 
 # Features For The Nuker
-- Delete Channels
-- Spam  Text Channels 
-- Spam VC Channels
+- Deletes Channels
+- Spams Text Channels 
+- Spams VC Channels
 - Spams Create Roles
 
 # Feature For The Fake Menu
