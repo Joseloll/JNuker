@@ -7,11 +7,22 @@
 # About
 - This Is A Discord Server Nuker With A Fake Help Menu So It Looks Like You Are Getting A Legit Bot
 
+# Update
+Nuker:
+- Mass Dm
+- Delete All Roles
+
+Fake Menu:
+- 8Ball
+- Gay Meter
+- Rock, Paper, Scissors
 # Features For The Nuker
 - Deletes Channels
 - Spams Text Channels 
 - Spams VC Channels
 - Spams Create Roles
+- Mass DM 
+- Delete All Roles
 
 # Feature For The Fake Menu
 - Bans Members
@@ -19,6 +30,9 @@
 - UnBans Members
 - Purges Channel Messages
 - Ping The Discord Bot
+- 8Ball
+- Gay Meter
+- Rock, Paper, Scissors
 
 # Usage
 - Python 3  https://python.org
