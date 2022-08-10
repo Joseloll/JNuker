@@ -1,4 +1,3 @@
-from urllib import response
 import discord 
 import colorama
 import os
