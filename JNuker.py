@@ -1,9 +1,9 @@
 import discord 
-import colorama
-import os
 from discord.ext import commands
 from discord.utils import get
+import colorama
 from colorama import Fore
+import os
 import token
 import random
 os.system(f'cls & mode 100,18 & title JNuker!')
